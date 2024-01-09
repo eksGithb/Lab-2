@@ -1,0 +1,6 @@
+Title: Lab 2 — Exploration by visualization: the Galton dataset
+Date: 2018-05-29
+Depends:
+  R (>= 3.4)
+Imports:
+  tidyverse
